@@ -1,4 +1,4 @@
-//calculating size of a0,a1,a2,....a8 sheet, if the size of a0 sheet is given.(pg 20, [f](f))
+//calculating size of a0,a1,a2,....a8 sheet, if the dimensions of a0 sheet are given (1189 x 841 mm). the size of successive sheets is half of longer side, parallel to the shorter side.
 
 #include<stdio.h>
 int main()
